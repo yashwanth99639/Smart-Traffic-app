@@ -5,3 +5,6 @@ ultralytics
 torch
 torchvision
 lap
+xlsxwriter
+pandas
+Pillow
