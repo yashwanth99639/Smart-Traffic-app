@@ -10,3 +10,11 @@ xlsxwriter
 pandas
 Pillow
 numpy==1.26.4
+streamlit==1.33.0
+ultralytics==8.2.0
+opencv-python-headless==4.8.1.78
+numpy==1.26.4
+pandas==2.2.2
+Pillow==10.3.0
+matplotlib==3.8.4
+xlsxwriter==3.2.0
