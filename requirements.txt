@@ -1,4 +1,5 @@
 streamlit
+opencv-python-headless==4.8.1.78
 opencv-python-headless
 numpy
 ultralytics
@@ -8,3 +9,4 @@ lap
 xlsxwriter
 pandas
 Pillow
+numpy==1.26.4
